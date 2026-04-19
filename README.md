@@ -1,4 +1,4 @@
-# HDB Property Intelligence Dashboard
+# HDB Property Intelligence Solutions
 
 A modern HDB data warehouse built with a Medallion Architecture (Bronze → Silver → Gold) for analyzing Singapore resale, rental, investment and property supply data.
 
